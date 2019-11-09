@@ -1,0 +1,4 @@
+#define WINDOWS_LENGTH 600
+#define WINDOWS_HEIGHT 500
+#define WASD_SPEED 0.6
+#define QEZC_SPEED 0.6
